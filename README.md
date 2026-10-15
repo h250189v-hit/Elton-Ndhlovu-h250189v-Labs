@@ -1,4 +1,9 @@
 # Lab Assignment Two: Object-Oriented Programming in Java
+Student Name: Ndhlovu Elton A
+
+Reg Number: H250189V
+
+Course: Object Oriented Programming
 
 This repository contains Java implementations of the laboratory exercises on object-oriented programming. Labs 1-10 contain **50 exercises**, covering Basic, Intermediate and Challenge tasks. Lab 11 contains demonstrations of four design patterns and a **Library Management System** mini-project that brings the main concepts together.
 
